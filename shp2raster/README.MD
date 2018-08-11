@@ -28,5 +28,5 @@ The function ```gdal.RasterizeLayer()``` is chosen and get the pic as follow.
 ![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic4.png)
 
 
-## files:
+### files:
 There are two ```.py``` in this repo for the two steps.
