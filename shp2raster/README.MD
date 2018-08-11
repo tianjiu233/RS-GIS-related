@@ -16,9 +16,9 @@ You can get the result.
 ![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic5.png) 
 Then 
 The functin in gdal ```.SetSpatialFilter()``` is used to extract the features(geometries) within rectangle vector from the big vector file. <br>
-(a) vector file <br>
+(a) vector file 
 ![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic3.png) 
-(b) raster file and vector file <br>
+(b) raster file and vector file
 ![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic2.png) 
 
 (2) raster shapefile:
