@@ -7,4 +7,4 @@ This repo records ,when programming, some difficulties related with GIS-RS.
 This tutorial records how to transform geojson to become the label.(Geojson and raster share the same extent.)
 
 * [shp2raster]()
-This tutorial records how to transform shapefile to the raster.(shp has a bigger extent)
+This tutorial records how to transform shapefile to the raster.(Shp has a bigger extent)
