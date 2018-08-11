@@ -8,3 +8,11 @@ The situation is as follow:
 ![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic1.png) 
 
 
+### steps:
+(1) generate shapefile:
+For the raster file we have is a georeferenced one, It can provide the geo_extent. <br>
+So we could construct a new rectangle vector that shares the same extent as the raster file. <br>
+The functin in gdal ```.SetSpatialFilter()``` is used to extract the features(geometries) within rectangle vector from the big vector file. <br>
+You can get the result.
+![](https://github.com/huijianpzh/RS-GIS-related/blob/master/shp2raster/pic5.png)
+
