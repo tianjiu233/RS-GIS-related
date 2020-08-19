@@ -1,0 +1,1 @@
+This repo is for the book "Image Analysis, Classification, and Change Detection in Remote Sensing With Algorithms for Python".
